@@ -1,0 +1,7 @@
+Viewing the original file was tedious and made it very difficult to locate what had been changed
+Viewing the file using diff made it much easier to locate what had been changed and what needed to be corrected
+By having different versions I can revert to a previous version of a program if I wanted to reverse the changes I made
+I think Git allows mulitple files to be chaged in one commit since each change can affect all the files. With google Doc only the file you are updating is affected.
+
+You can use git log and git diff to view history by comparing changes made from a commit and the previous commit
+Knowing I can revert back to a prior commit allows me to program with confidance since if a mistake is made, I can go back to verify in which commit it occured in and what was the actual mistake was.
